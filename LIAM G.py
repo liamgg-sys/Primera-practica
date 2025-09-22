@@ -1,7 +1,7 @@
 import time
 from datetime import datetime
 
-print("biemvenido👽")
+print("biemvenido a python👽")
 
 time.sleep(1)
 
